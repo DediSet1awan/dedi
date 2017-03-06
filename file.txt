@@ -1,0 +1,9 @@
+praktikum pertemuan 2
+===========================
+Teknologi Cloud Computing
+===========================
+Belajar GIT hub
+===========================
+- insatalasi Github
+- membuat akun github
+- membuat direktory 
